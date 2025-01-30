@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "penig_gisk_zygisk"
+    magiskModuleId = "plutonium_remapper"
+    moduleName = "Plutonium Remapper"
+    moduleAuthor = "ну не секрет я думаю"
+    moduleDescription = "zygisk library rempper"
+    moduleVersion = "v1.0.0"
+    moduleVersionCode = 1
+}
